@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Судоку</string>
+    <string name="btn_new">Нова гра</string>
+    <string name="btn_check">Перевірити</string>
+    <string name="btn_solve">Розв\'язок</string>
+    <string name="btn_lang">EN</string>
+
+    <string name="msg_start">Оберіть клітинку та натисніть цифру</string>
+    <string name="msg_win">Чудово! Судоку розв\'язано правильно!</string>
+    <string name="msg_errors">Є помилки (виділені червоним)</string>
+    <string name="msg_incomplete">Заповніть усі порожні клітинки</string>
+</resources>

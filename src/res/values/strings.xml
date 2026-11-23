@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Sudoku</string>
+    <string name="btn_new">New Game</string>
+    <string name="btn_check">Check</string>
+    <string name="btn_solve">Solve</string>
+    <string name="btn_lang">UA</string>
+
+    <string name="msg_start">Tap a cell and choose a number</string>
+    <string name="msg_win">Great! Sudoku solved correctly!</string>
+    <string name="msg_errors">Mistakes found (highlighted in red)</string>
+    <string name="msg_incomplete">Some cells are still empty</string>
+</resources>
